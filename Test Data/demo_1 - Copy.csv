@@ -1,0 +1,403 @@
+,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
+500,Brand New Beautiful Duplex Apartment with Garden,848748,Sarah,Brooklyn,Greenpoint,40.72315,-73.95226,Entire home/apt,500
+501,"PRIME, Luxury, Spacious 2 Bedroom Apt in Chelsea",848960,Amit,Manhattan,Chelsea,40.73939,-73.99611999999999,Entire home/apt,429
+502,SPACIOUS ALCOVE STUDIO/ JUNIOR ONE,849492,Kathrine,Manhattan,Kips Bay,40.74112,-73.97686,Entire home/apt,189
+503,High-end doorman bldg in the LES,21475,Milan,Manhattan,Lower East Side,40.72019,-73.98217,Private room,120
+504,Spring & Mulberry 2 Bedroom Apartment,314941,Tony,Manhattan,Nolita,40.72133,-73.99665999999999,Entire home/apt,300
+505,Ultra Modern NYC Garden Apartment,864735,Jason,Queens,Astoria,40.75744,-73.92163000000001,Entire home/apt,107
+506,Modern Garden Apartment in NYC,864735,Jason,Queens,Astoria,40.75695,-73.9202,Entire home/apt,95
+507,Gorgeous Entire Manhattan Townhouse,872121,Rosario,Manhattan,Harlem,40.8296,-73.94651,Entire home/apt,199
+508,Cozy studio Apartment in Upper East,39260,Mat,Manhattan,East Harlem,40.79056,-73.9468,Entire home/apt,120
+509,Historic classic central cozy Village clean NYU,872805,Mike,Manhattan,West Village,40.736309999999996,-73.99977,Entire home/apt,199
+510,A PRIVATE FLAT / APARTMENT- $SPECIAL$,873273,Christian & Carla,Bronx,Allerton,40.86466,-73.85709,Entire home/apt,125
+511,Williamsburg bedroom by Bedford Ave,876054,Obed,Brooklyn,Williamsburg,40.71312,-73.96199,Private room,70
+512,Clean and bright with a comfortable atmosphere,889106,Lisa,Brooklyn,Williamsburg,40.71297,-73.94336,Private room,75
+513,WEST VILLAGE LRG CLEAN SUNNY PRIVATE BDRM,871727,Village,Manhattan,West Village,40.737120000000004,-74.00166,Private room,100
+514,Historic Brooklyn Studio Apartment,279078,Andrew & Markus,Brooklyn,Bedford-Stuyvesant,40.69242,-73.95097,Entire home/apt,99
+515,Comfort at Crossroads of Downtown,904833,Daniel,Manhattan,Chelsea,40.738620000000004,-73.99758,Entire home/apt,250
+516,"""The Oasis"" on Bedford Williamsburg",906200,Mariana,Brooklyn,Williamsburg,40.7158,-73.95803000000001,Entire home/apt,350
+517,"Large, sunny garden apartment.",909146,Mj,Brooklyn,Prospect Heights,40.68262,-73.97299,Entire home/apt,170
+518,UNION SQUARE/ E. VILL 1BR BEAUTIFUL,909234,Leslie,Manhattan,East Village,40.73217,-73.98801,Entire home/apt,165
+519,Hell's Kitchen Funky 80's Hideaway!,179020,Michael,Manhattan,Hell's Kitchen,40.76311,-73.99388,Private room,99
+520,Room in Chic Modern High Line Luxury- New!,912541,David,Manhattan,Chelsea,40.74695,-74.00454,Private room,255
+521,Family & Friends in New York City,489400,O'Dell,Brooklyn,East New York,40.67497,-73.87305,Entire home/apt,169
+522,Spacious & Comfy BK Brownstone,915640,Sundiata,Brooklyn,Crown Heights,40.66788,-73.94813,Entire home/apt,99
+523,Large Luxury Upper East Side Studio,918866,Marina,Manhattan,Upper East Side,40.76684,-73.95944,Entire home/apt,169
+524,Chateau Style Brooklyn Loft for Singles or Couples,920542,Farrah,Brooklyn,Bedford-Stuyvesant,40.68967,-73.95445,Entire home/apt,160
+525,Lovely Brooklyn Brownstone 1BR!,922922,Karen,Brooklyn,Prospect Heights,40.67946,-73.96500999999999,Entire home/apt,215
+526,Beautiful Grdn. Apt. in Park Slope,874471,Alan,Brooklyn,Park Slope,40.66944,-73.98083000000001,Entire home/apt,130
+527,Sun-drenched East Village Penthouse,923915,Matthew,Manhattan,East Village,40.72566,-73.97748,Private room,110
+528,Columbus Circle Luxury Bldg - Private Room&Bath,936114,Marcela,Manhattan,Hell's Kitchen,40.7709,-73.99181,Private room,150
+529,Bright Private Bedroom in Williamsburg (Bedford L),302936,Melody,Brooklyn,Williamsburg,40.719429999999996,-73.95958,Private room,65
+530,"Spacious, Kid-Friendly, and 15-20 Mins. to Midtown",938056,Mike,Queens,Sunnyside,40.742490000000004,-73.92466,Private room,75
+531,Quiet Chelsea Studio w/Charm,48599,Anastasia,Manhattan,Chelsea,40.74033,-74.00024,Entire home/apt,149
+532,Large Room Overlooking Central Park,936830,Elina,Manhattan,Upper West Side,40.7969,-73.96128,Private room,89
+533,"Cheerful, comfortable room",940724,Susan,Manhattan,Washington Heights,40.83403,-73.94553,Private room,50
+534,Hospitality on Propsect Pk-12 yrs Hosting Legally!,949221,Dennis,Brooklyn,Prospect-Lefferts Gardens,40.65513,-73.95640999999999,Private room,43
+535,"Prospect Pk*NYC in 5 stops* Cozy,Clean & Legal!",949221,Dennis,Brooklyn,Prospect-Lefferts Gardens,40.65589,-73.95539000000001,Private room,42
+536,Loft Style Apt in Williamsburg,304493,Erika,Brooklyn,Williamsburg,40.70275,-73.94501,Private room,85
+537,2 Beds over Bed-Stuy,953279,Tim,Brooklyn,Bedford-Stuyvesant,40.68897,-73.93569000000001,Entire home/apt,139
+538,"Sunny, Large, Park Slope Bedroom",611716,Elizabeth,Brooklyn,Park Slope,40.67617,-73.98136,Private room,105
+539,Huge Bklyn Loft w Private Roofdeck,953565,Vanessa,Brooklyn,Park Slope,40.67595,-73.98053,Entire home/apt,265
+540,Quiet Jr Alcove Near Times Square!,960836,Vlad,Manhattan,Hell's Kitchen,40.76415,-73.99067,Entire home/apt,149
+541,Large room in elevator drman bldg,964482,Colin,Manhattan,Harlem,40.83127,-73.94718,Private room,68
+542,"Comfy, Cozy, Brooklyn close to Manhattan",289135,Toni,Brooklyn,Bedford-Stuyvesant,40.68497,-73.95591999999999,Entire home/apt,99
+543,Modern Bedroom in Hamilton Heights,971075,Jabari,Manhattan,Harlem,40.82922,-73.94174,Private room,75
+544,Sunny Space in Williamsburg,973438,Susanne,Brooklyn,Williamsburg,40.71137,-73.94362,Private room,100
+545,Best Manhattan Studio Deal!   ,933378,Edo,Manhattan,Upper East Side,40.76739,-73.9557,Shared room,90
+546,STYLISH EAST VILLAGE FLAT,568325,Simone,Manhattan,East Village,40.73089,-73.98195,Entire home/apt,160
+547,Serene Park Slope Garden Apartment,988350,Andrea,Brooklyn,Park Slope,40.6755,-73.97859,Entire home/apt,190
+548,Cozy and spacious - rare for NYC!,918087,Kestrel,Brooklyn,Bedford-Stuyvesant,40.68812,-73.94934,Private room,67
+549,Beautiful UES apartment,1000477,Elizabeth,Manhattan,Upper East Side,40.7694,-73.9572,Entire home/apt,190
+550,St. James Pl Garden Studio 1block to PRATT &Gtrain,51038,Erica,Brooklyn,Clinton Hill,40.68634,-73.96161,Entire home/apt,248
+551,"Great, spacious apt in Williamsburg",903686,Melanie,Brooklyn,Williamsburg,40.7093,-73.9497,Private room,100
+552,Comfortable. Spacious. Private Room.,464506,Ange,Manhattan,Chinatown,40.713,-73.99752,Private room,95
+553,Modern Condo in Midtown,1007558,Welcome To My Place,Manhattan,Theater District,40.75895,-73.9883,Private room,150
+554,Ideal Brooklyn Brownstone Apartment,1010242,Zora & Chris,Brooklyn,Bedford-Stuyvesant,40.68186,-73.94113,Entire home/apt,145
+555,"A Cozy Oasis in Bushwick, NY",1011426,Danielle,Brooklyn,Bushwick,40.683640000000004,-73.91076,Private room,41
+556,Private Entrance - Private Parking,1012691,Tiffaney,Brooklyn,Williamsburg,40.71893,-73.9428,Entire home/apt,120
+557,Yankee Stadium Oasis 2 stops to Manhattan!,12221,Lori,Bronx,Concourse Village,40.82802,-73.92039,Private room,50
+558,"Sunny, Spacious Studio in Ft.Greene",1014639,Brett,Brooklyn,Fort Greene,40.68765,-73.97073,Entire home/apt,157
+559,Williamsburg Exposed Brick Loft,1017473,Evan,Brooklyn,Williamsburg,40.71413,-73.96596,Entire home/apt,195
+560,Bright Modern Charming Housebarge,1018472,Angus,Brooklyn,Sheepshead Bay,40.58422,-73.94079,Entire home/apt,70
+561,Central Bedford Avenue Apartment,1024355,Martina,Brooklyn,Williamsburg,40.71973,-73.95581999999999,Entire home/apt,185
+562,Welcome to Brooklyn! Bed-Stuy,1029021,Jameelah,Brooklyn,Bedford-Stuyvesant,40.69025,-73.93323000000001,Entire home/apt,145
+563,Sunnyside NYC/ AC room/ city views/ near Midtown,1031148,Iulia,Queens,Sunnyside,40.73826,-73.92458,Private room,50
+564,Greenpoint Waterfront Loft,306739,Maya,Brooklyn,Greenpoint,40.73049,-73.96115,Entire home/apt,185
+565,East Village House -- Unique!,272730,Goldi,Manhattan,East Village,40.72956,-73.97903000000001,Entire home/apt,250
+566,2-bedroom share in heart of Greenwich Village!,666271,Susan,Manhattan,West Village,40.73854,-74.00820999999999,Private room,80
+567,1 Bedroom Pre War apt,1094178,Jeremy,Manhattan,Theater District,40.75877,-73.98863,Entire home/apt,230
+568,Quiet One Bedroom in Park Slope,1096084,Daniel,Brooklyn,Gowanus,40.67688,-73.9859,Entire home/apt,100
+569,CreaTive Live-In Artspace/Birdsnest,293130,Meli,Brooklyn,Bushwick,40.700509999999994,-73.92204,Private room,40
+570,RARE Penthouse Oasis featured on DesignSponge,800223,Nader,Manhattan,Lower East Side,40.71712,-73.98898,Private room,200
+571,New Clean Spacious Bed & Breakfast,1109658,Carmel,Staten Island,Emerson Hill,40.60742,-74.14388000000001,Private room,80
+572,"Sunny, calm room in Victorian home",1112560,Mary,Brooklyn,Bedford-Stuyvesant,40.68741,-73.95741,Private room,79
+573,Modern Unique Studio in NYC,864735,Jason,Queens,Long Island City,40.75627,-73.9211,Entire home/apt,95
+574,"2 Bed, 2 Bath Apartment on Central Park West",1114587,Keenan & Emily,Manhattan,Upper West Side,40.798159999999996,-73.9619,Entire home/apt,300
+575,"Luxury Furnished 1 bedro, Bay Ridge",1121193,Samuel,Brooklyn,Fort Hamilton,40.61927,-74.0307,Entire home/apt,100
+576,Your Haven in the Upper West Side,1129218,Orlando,Manhattan,Harlem,40.8078,-73.95208000000001,Private room,80
+577,"Wonderful Studio In Brooklyn, NY!!!",447754,Yana,Brooklyn,Bensonhurst,40.61922,-73.99399,Entire home/apt,110
+578,A Cozy Brooklyn Hideaway,759583,Pepe,Brooklyn,Clinton Hill,40.68275,-73.96148000000001,Entire home/apt,172
+579,✿✿✿ COUNTRY COTTAGE IN THE CITY✿✿✿,1138692,Keera (Jena),Manhattan,Lower East Side,40.71813,-73.98416,Entire home/apt,199
+580,✿✿✿ COUNTRY COTTAGE IN THE CITY✿✿✿,1138692,Keera (Jena),Manhattan,Lower East Side,40.718920000000004,-73.98401,Entire home/apt,199
+581,"Lovely Bdr in Harlem, Manhattan",1139574,Carmel,Manhattan,Harlem,40.816,-73.95545,Private room,100
+582,THE BEST DEAL ON THE HUDSON RIVER!!,921500,Boubacar And Pattee,Manhattan,Harlem,40.82748,-73.95153,Private room,55
+583,Lovely HUGE Master Bed + Study,918087,Kestrel,Brooklyn,Bedford-Stuyvesant,40.68634,-73.95088,Private room,75
+584,Newly Reno’d Chic Quiet Exec 1BR,1144415,Lisa,Manhattan,East Village,40.72229,-73.97901,Entire home/apt,146
+585,1 Bedroom in prime Flatiron,846050,Eziah,Manhattan,NoHo,40.72956,-73.99287,Private room,250
+586,Large Artist Floorthru- Greenpoint,1146744,Deborah,Brooklyn,Greenpoint,40.72595,-73.95298000000001,Entire home/apt,116
+587,Gorgeous PermaGO Private Room in FiDi - 1/2,4887492,Gershwyn,Manhattan,Tribeca,40.711929999999995,-74.00816999999999,Private room,150
+588,CBG Helps Haiti Rm #3,22486,Lisel,Brooklyn,Park Slope,40.68012,-73.97847,Private room,120
+589,BEST DEAL IN CHELSEA 1 bdrm NYC,1153993,Anton,Manhattan,Chelsea,40.742329999999995,-73.99865,Entire home/apt,199
+590,Lovely Apartment,1164642,Rosalynn,Brooklyn,Prospect Heights,40.674240000000005,-73.96665,Entire home/apt,150
+591,Artsy Loft-like Harlem Apartment,1165231,Deirdre,Manhattan,Harlem,40.80486,-73.95298000000001,Private room,69
+592,Harlem/Manhattan Classic Apartment,1165231,Deirdre,Manhattan,Harlem,40.80307,-73.95048,Private room,300
+593,"BEAUTIFUL APARTMENT, GREAT LOCATION",991380,Stefania,Brooklyn,Boerum Hill,40.68653,-73.98562,Entire home/apt,230
+594,Quiet sunny studio Midtown,1173599,Gaya,Manhattan,Midtown,40.742670000000004,-73.98569,Entire home/apt,125
+595,Charming room in Victorian home,1112560,Mary,Brooklyn,Bedford-Stuyvesant,40.687490000000004,-73.95494000000001,Private room,79
+596,Brooklyn B & B close to Manhattan,663879,Christopher,Brooklyn,Fort Greene,40.68645,-73.97538,Private room,130
+597,The Notorious B.N.B. { The Erhart },1177497,Jessica,Brooklyn,Clinton Hill,40.68999,-73.96710999999999,Private room,239
+598,Sunny cozy multileveled apartment!,1177947,Marina,Staten Island,Shore Acres,40.61077,-74.06824,Entire home/apt,75
+599,Sunny 2 bedroom Williamsburg Duplex w/ 3 beds,815977,Ryan,Brooklyn,Williamsburg,40.711259999999996,-73.94575999999999,Entire home/apt,220
+600,ROOM WITH KITCHENETTE #2,209460,Marylyn,Brooklyn,Bedford-Stuyvesant,40.67855,-73.94949,Entire home/apt,80
+601,Alpha-Bet City entire floor large cool 2br -L.E.S,1187935,Daniel,Manhattan,East Village,40.72416,-73.9853,Entire home/apt,288
+602,"Your Haven Awaits At ""Emma's Place""",1191142,Lady Jay,Brooklyn,Bedford-Stuyvesant,40.685159999999996,-73.92520999999999,Entire home/apt,135
+603,"Spacious, Kid-Friendly 2 BR in West Village",1192424,Gordon,Manhattan,West Village,40.73507,-74.00048000000001,Entire home/apt,225
+604,Great Bedroom in Downtown Manhattan,1192610,Raven,Manhattan,Chinatown,40.71611,-73.99828000000001,Private room,110
+605,Beautiful Brownstone,1194377,Marceline,Brooklyn,Bedford-Stuyvesant,40.67964,-73.93946,Entire home/apt,100
+606,1BDR - Hell's Kitchen Hideaway,1190088,Tim,Manhattan,Hell's Kitchen,40.76189,-73.99,Private room,130
+607,COMFY ROOM/COFFEE AND BAGEL/WEEKLY DISCOUNT,1097545,Carol,Manhattan,East Village,40.72645,-73.98035,Private room,89
+608,Oversized Studio in Park Slope,507304,Derrick,Brooklyn,Sunset Park,40.662929999999996,-73.99833000000001,Entire home/apt,200
+609,Apt with EmpireState view-Subway around the corner,1203500,Civan,Brooklyn,Bedford-Stuyvesant,40.690459999999995,-73.95167,Entire home/apt,80
+610,Zen Yankee Stadium Pad 5 Minutes To Manhattan!,12221,Lori,Bronx,Concourse,40.830009999999994,-73.92158,Private room,50
+611,Monthly Apartment Rental,292204,Blanca,Manhattan,East Harlem,40.792390000000005,-73.94535,Entire home/apt,135
+612,Wonderfully inviting East Village,1207399,Mark,Manhattan,East Village,40.727090000000004,-73.98274,Private room,90
+613,TURQUOISE: One-Bedroom Apt. in Soho,1184442,Roberto,Manhattan,SoHo,40.72599,-74.00168000000001,Private room,270
+614,"Lovely pied-à-terre, in an historic building",1217241,Dee,Brooklyn,Bedford-Stuyvesant,40.68309,-73.94219,Entire home/apt,110
+615,"Spacious, well furnished, high fl. beautiful views",763420,Selma,Manhattan,East Harlem,40.79442,-73.93433,Entire home/apt,145
+616,NYC Studio in Heart of Times Square,1220414,Michael,Manhattan,Hell's Kitchen,40.76166,-73.99675,Entire home/apt,179
+617,rooms for rent in Queens with piano,1012895,Melody,Queens,Ridgewood,40.70163,-73.90867,Private room,55
+618,Large Sunny Luxe Prvt Room/Midtown,1223568,Tiffany,Manhattan,Midtown,40.75575,-73.96842,Private room,110
+619,Spacious Stunning Harlem Townhouse,902054,William,Manhattan,Harlem,40.80903,-73.94197,Entire home/apt,325
+620,Private Room With GREAT Location,1229984,John,Queens,Long Island City,40.74581,-73.95295,Private room,75
+621,HUGE Sunny Duplex Loft with Garden,1234405,Bertie,Brooklyn,South Slope,40.66414,-73.98574,Entire home/apt,300
+622,LARGE ARTSY Room w/ Loft Bed 4 DOOGLERS!,83257,Olan,Manhattan,West Village,40.74,-74.00381,Private room,130
+623,Stylish Studio with exclusive Terrace,1236070,Dan,Manhattan,Midtown,40.753479999999996,-73.97065,Entire home/apt,190
+624,"LES private apt, 1 bedroom & more",1236817,Blue,Manhattan,Lower East Side,40.720659999999995,-73.98506,Entire home/apt,200
+625,"Williamsburg Garden Home, 5 minutes from Manhattan",1240820,Triny,Brooklyn,Williamsburg,40.717459999999996,-73.95496999999999,Entire home/apt,180
+626,"HUGE, modern 2-LEVEL Brooklyn apt",4166168,Nick And Noémie,Brooklyn,DUMBO,40.70257,-73.9847,Entire home/apt,350
+627,charming 2bdrm apt in East Village,1151987,Juvie,Manhattan,East Village,40.722640000000006,-73.9837,Entire home/apt,160
+628,LOCATION LOCATION LOCATION Liz's,1146958,Liz,Manhattan,Kips Bay,40.73833,-73.98186,Entire home/apt,195
+629,Manhattan Loft in Prime East Village Location,1243192,Jacqueline,Manhattan,Greenwich Village,40.73268,-73.99255,Entire home/apt,241
+630,Nolita Penthouse_Private Deck_Elev_,65064,Ashley & Nir,Manhattan,Chinatown,40.718920000000004,-73.99628,Entire home/apt,300
+631,Astoria Garden Suite,1256874,Nancy,Queens,Ditmars Steinway,40.776790000000005,-73.91686999999999,Entire home/apt,75
+632,Lower East Side/Chinatown 1 Bedroom,1257309,Austin,Manhattan,Lower East Side,40.71693,-73.98948,Entire home/apt,100
+633,"Amazing 1 bed, live like a Newyorkr",1257760,Jay,Manhattan,Gramercy,40.73685,-73.98359,Entire home/apt,399
+634,Private Room in Fort Green BK close to city,136962,Li,Brooklyn,Fort Greene,40.68501,-73.97019,Private room,85
+635,Spacious & Charming by Prospect Pk,1258363,Todd,Brooklyn,Prospect-Lefferts Gardens,40.66068,-73.96003,Entire home/apt,80
+636,Private Room Near Brooklyn Museum ,1263176,Joseph,Brooklyn,Prospect Heights,40.67722,-73.96542,Private room,55
+637,The Notorious B.N.B. { The Wallace },1177497,Jessica,Brooklyn,Clinton Hill,40.68975,-73.96703000000001,Private room,438
+638,Clinton Hill 1 Bed Bright Loft Apartment,1264655,Ruari,Brooklyn,Bedford-Stuyvesant,40.692209999999996,-73.95866,Entire home/apt,110
+639,Great Studio in W. Village - NYC!,1269455,Mike,Manhattan,West Village,40.729690000000005,-74.00635,Entire home/apt,200
+640,The Notorious B.N.B. { The Swoon },1177497,Jessica,Brooklyn,Clinton Hill,40.6893,-73.96602,Private room,279
+641,"BIG 1br, SLEEPS 4, dishwashr, TV",1273825,Lauryn,Brooklyn,Williamsburg,40.70832,-73.94157,Entire home/apt,137
+642,2BR  Apt - 20min to Soho,1276497,Alon,Brooklyn,Bedford-Stuyvesant,40.68016,-73.94878,Entire home/apt,280
+643,Williamsburg  - Quiet and Comfy stay,288711,Andy,Brooklyn,Williamsburg,40.70875,-73.95508000000001,Entire home/apt,199
+644,One Fabulous Private Room,714200,Baron,Manhattan,Inwood,40.85888,-73.92886,Private room,71
+645,NY/ Big Room for 2 near Manhattan,1260921,Victor,Bronx,Kingsbridge,40.8679,-73.90023000000001,Private room,42
+646,Brooklyn Brownstone apartment,1288460,Al-,Brooklyn,Bedford-Stuyvesant,40.6889,-73.95383000000001,Entire home/apt,180
+647,big 1 bedroom apt very central,825022,Jaidev,Manhattan,Chelsea,40.75127,-73.99637,Entire home/apt,226
+648,"Lovely, Large Room in Crown Heights",283604,Shelley,Brooklyn,Crown Heights,40.67607,-73.94421,Private room,85
+649,"Sweet Apt, Steps From Gramercy Park",1292250,Jerry,Manhattan,Gramercy,40.73834,-73.9823,Entire home/apt,135
+650,Quality Cozy Studio Next to Subway,3647,Rafael,Queens,Elmhurst,40.7347,-73.88065999999999,Entire home/apt,79
+651,Scandinavian-apt for up to 5. LES,936630,Jens,Manhattan,Lower East Side,40.718759999999996,-73.98850999999999,Entire home/apt,154
+652,Loft Suite @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73787,-73.95385,Entire home/apt,199
+653,4 BEDROOM -2BATHRM WEST VILLAGE DUPLEX  TOWNHOUSE,605463,West Village,Manhattan,West Village,40.73066,-74.00287,Entire home/apt,700
+654,Large & bright 900ft² 1br in WV,1306587,Andy,Manhattan,West Village,40.73291,-74.00059,Entire home/apt,246
+655,At a very nice area in the WestSide,1307773,Karina,Manhattan,Washington Heights,40.85099,-73.92822,Private room,125
+656,HANCOCK VERY SMALL ROOM,758441,Fred,Brooklyn,Bedford-Stuyvesant,40.68707,-73.91918000000001,Private room,100
+657,Pre-War Williamsburg Loft,1311398,Ben,Brooklyn,Williamsburg,40.7184,-73.96019,Entire home/apt,295
+658,1 Bedroom Available In My Two Bedroom Flat,945499,Kyle,Brooklyn,Crown Heights,40.67495,-73.95563,Private room,150
+659,SPACIOUS PRIVATE LITTLE ITALY FLAT,1311870,Christy,Manhattan,Chinatown,40.71582,-73.99902,Entire home/apt,119
+660,The Lenox in Harlem,1313306,Yvette,Manhattan,Harlem,40.81068,-73.94288,Private room,125
+661,The Lenox in Harlem,1313306,Yvette,Manhattan,Harlem,40.81122,-73.94279,Entire home/apt,400
+662, Heart & Soul of Greenwich Village ,1314834,Rhona,Manhattan,Greenwich Village,40.73129,-73.99944,Entire home/apt,850
+663,Prime Williamsburg Loft off Bedford,1278802,Anne,Brooklyn,Williamsburg,40.71628,-73.95737,Private room,129
+664,Private Bdrm /Bath 1 block Ctrl Prk,1317343,Carol,Manhattan,Upper West Side,40.785579999999996,-73.9726,Private room,140
+665,+Highly Satisfactory LES dwelling++,297769,Tunji,Manhattan,Chinatown,40.7146,-73.991,Private room,115
+666,Whole apartment / 2 bedroom in NYC,1325961,Chris,Manhattan,East Harlem,40.79493,-73.94462,Entire home/apt,200
+667,"Spacious, modern loft in awesome neighborhood",552343,Cynthia,Brooklyn,Sunset Park,40.6623,-73.99049000000001,Entire home/apt,96
+668,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73693,-73.95284000000001,Entire home/apt,199
+669,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73641,-73.9533,Entire home/apt,199
+670,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73794,-73.95254,Entire home/apt,199
+671,Well Kept  Private Room around  Brighton  Beach,1331493,Olia,Brooklyn,Brighton Beach,40.58147,-73.96726,Private room,69
+672,Large 1 Bedroom furnished on UWS,1331850,G,Manhattan,Upper West Side,40.797709999999995,-73.96323000000001,Entire home/apt,185
+673,Chez Carine - Privacy in Manhattan,1332108,Cici,Manhattan,Harlem,40.81512,-73.94691999999999,Private room,81
+674,Loft Suite @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.7373,-73.95323,Entire home/apt,199
+675,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73708,-73.95271,Entire home/apt,199
+676,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73652,-73.95236,Entire home/apt,199
+677,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73693,-73.95316,Entire home/apt,199
+678,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.737840000000006,-73.95324000000001,Entire home/apt,199
+679,Duplex w/ Terrace @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.736740000000005,-73.95246999999999,Private room,349
+680,Loft w/ Terrace @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.737829999999995,-73.95259,Private room,249
+681,1 BR w/ Terrace @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.737140000000004,-73.95296,Private room,299
+682,Superior @ Box House,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73731,-73.9545,Private room,179
+683,"Read it 1st, A seprat fur BR, low $",1267021,Sharma,Queens,Jackson Heights,40.74965,-73.89344,Private room,54
+684,2 BR Duplex @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73793,-73.95316,Private room,599
+685,Husband & Wife Art-Filled Apartment,1336542,Stephanie,Brooklyn,Clinton Hill,40.68197,-73.96549,Entire home/apt,110
+686,"3BR, 2 bathroom condo in Bushwick",1340007,Roger,Brooklyn,Bushwick,40.702709999999996,-73.91566,Entire home/apt,220
+687,"The BLUE OWL:
+VEGETARIAN WBURG W PATIO & BACKYARD!",1302029,Bree,Brooklyn,Williamsburg,40.7116,-73.9529,Private room,89
+688,Cozy 2 Bedroom 20 Min from City,1343630,Antonio,Brooklyn,Bedford-Stuyvesant,40.692409999999995,-73.94885,Entire home/apt,170
+689,NOLITA! LOCATION! LOCATION! VIEWS! FREE GYM!,506779,Claudia,Manhattan,Nolita,40.720040000000004,-73.99424,Entire home/apt,495
+690,"Entire apt NYC, Queens. 15 min from Times Square.",1346437,Cristina,Queens,Sunnyside,40.74511,-73.92398,Entire home/apt,80
+691,Luxury Chelsea Townhouse at the High Line,1347034,Janine,Manhattan,Chelsea,40.74599,-74.00253000000001,Entire home/apt,760
+692,Alchemy BnB - room in artist loft,1348494,Pamela,Brooklyn,Cobble Hill,40.68946,-73.99385,Private room,98
+693,Sunny! 2br Steps to train/restaurants - 15 to NYC,315401,Jaime,Brooklyn,Bedford-Stuyvesant,40.68226,-73.95473,Entire home/apt,125
+694,Zen Den (Airport Pickup: JFK & LGA),1123923,Adolfo,Brooklyn,Cypress Hills,40.67855,-73.8896,Private room,48
+695,Heart of Williamsburg. Brand New.,1356046,Daniel,Brooklyn,Williamsburg,40.714079999999996,-73.9489,Private room,64
+696,"Fresh, Clean Brooklyn Garden Apt.",1358312,S,Brooklyn,Clinton Hill,40.68618,-73.96144,Entire home/apt,154
+697,Guest Apartment in Owner Occupied Home,1354758,Annie,Brooklyn,Park Slope,40.673790000000004,-73.98454,Entire home/apt,139
+698,My Home Is Your Home,1233267,Kim,Queens,St. Albans,40.70554,-73.76637,Private room,75
+699,Spacious & Stylish Chelsea One Bedroom Apartment,436599,Chad,Manhattan,West Village,40.74031,-74.00532,Entire home/apt,325
+700,CHELSEA 1 Bdrm Plus Sleeping Loft!!,1359611,Andrea,Manhattan,Chelsea,40.746179999999995,-74.00392,Entire home/apt,195
+701,Spacious room in beautiful apt! ,1360043,Adrienne,Manhattan,Harlem,40.81872,-73.94566999999999,Private room,58
+702,"Oceanview,close to Manhattan",1360198,Marina,Staten Island,Arrochar,40.59251,-74.06479,Entire home/apt,250
+703,"Affordable rooms,all transportation",1360198,Marina,Staten Island,Arrochar,40.59101,-74.06685,Private room,50
+704,"Budget stay, near transportation",1360198,Marina,Staten Island,Arrochar,40.592620000000004,-74.06659,Entire home/apt,125
+705,Fort Greene brownstone 1BR- SUBLET,52335,Alexander,Brooklyn,Fort Greene,40.69142,-73.97203,Entire home/apt,70
+706,NewYork Modern Pre-War LoftStudio ,480943,Ro,Manhattan,Upper East Side,40.76928,-73.95021,Entire home/apt,189
+707,Cozy Artist Duplex **Bedstuy Charm**,696482,Christine,Brooklyn,Bedford-Stuyvesant,40.68338,-73.95289,Entire home/apt,130
+708,Apartment in Best location in NYC,1370358,Keiko,Manhattan,West Village,40.72953,-74.00461999999999,Entire home/apt,145
+709,Inspired in Historic Downtown NYC!,568103,Liah,Manhattan,Financial District,40.70523,-74.01345,Private room,101
+710,Chelsea/West Village - 2bdrm apt,1372786,Lindsey,Manhattan,Chelsea,40.74025,-74.00161,Private room,95
+711,1500+ sq ft 2BR West Village Loft,1359519,Nadya,Manhattan,West Village,40.733779999999996,-74.00429,Entire home/apt,375
+712,Cozy & Clean Lower East Side Apt.,1376385,Lauren,Manhattan,Lower East Side,40.72087,-73.99022,Entire home/apt,153
+713,Spacious Townhome Apt in Brooklyn,1376778,Wade,Brooklyn,East Flatbush,40.64468,-73.94219,Entire home/apt,92
+714,Chic + Stylish room in heart of LowerEastSide NYC!,535128,Juliana,Manhattan,Lower East Side,40.7193,-73.98966,Private room,80
+715,Landmark 2 Bedroom West Village NYC,605463,West Village,Manhattan,West Village,40.73312,-74.0042,Entire home/apt,300
+716,2 bedroom apt in charming brick townhouse,1380060,Marisa And Colin,Brooklyn,Fort Greene,40.69778,-73.97676,Entire home/apt,145
+717,Room in East Village with Private Entrance,1020539,Dominique,Manhattan,East Village,40.72534,-73.98591,Private room,88
+718,Cozy&Clean in a great neighborhood,1381171,Nicole,Manhattan,Harlem,40.821509999999996,-73.94516,Entire home/apt,155
+719,Prime Williamsburg 1/BD New Condo,1382749,Shaun,Brooklyn,Williamsburg,40.72059,-73.9567,Entire home/apt,185
+720,City Skyline Views from every room!,1384111,Joanne,Queens,Sunnyside,40.74558,-73.92324,Private room,73
+721,Contemporary & Classic Sanctuary on the Hudson,1384559,C,Manhattan,Upper West Side,40.79433,-73.9765,Entire home/apt,225
+722,Comfortable Manhattanville,305972,Allan,Manhattan,Morningside Heights,40.81055,-73.95549,Private room,85
+723,Private room w/ queen bed + rooftop,21188,Leo,Brooklyn,Crown Heights,40.6711,-73.95231,Private room,99
+724,Zen Eyrie –Airport Pick-Up: JFK/LGA,1123923,Adolfo,Brooklyn,Cypress Hills,40.67962,-73.88928,Private room,48
+725,Studio sublet in Hell's kitchen,1390947,Akiko,Manhattan,Theater District,40.762170000000005,-73.98411,Entire home/apt,200
+726,Luxury NYC 2 Bedroom with Terrace,1392440,Sandra,Manhattan,Upper East Side,40.76128,-73.96463,Entire home/apt,485
+727,Bright unique designer loft in Soho,1394190,Jen,Manhattan,Nolita,40.72313,-73.99438,Entire home/apt,310
+728,Spacious  2 bed Loft apartment Bedford L,1394719,Jill,Brooklyn,Williamsburg,40.7177,-73.95576,Entire home/apt,110
+729,Beautiful studio by Central Park,1385157,Brian,Manhattan,Upper West Side,40.78448,-73.97289,Entire home/apt,109
+730,One bed suite with private garden,1385157,Brian,Manhattan,Upper West Side,40.78304,-73.97447,Entire home/apt,167
+731,SUNNY 1 Bedroom APT in Fort Greene - BROOKLYN,1396546,Elena,Brooklyn,Fort Greene,40.68737,-73.97125,Entire home/apt,147
+732,West Village cozy 2 bedroom  NYC ,1397061,Asia Joanna,Manhattan,Chelsea,40.74139,-74.0005,Entire home/apt,220
+733,2 Bedroom Gem - Prime LES Location,1397115,Drew,Manhattan,Lower East Side,40.71992,-73.98773,Entire home/apt,195
+734,REAL 2BR-HEART OF SOHO-LITTLE ITALY,1398809,Roberto  Mike,Manhattan,Little Italy,40.71905,-73.99677,Entire home/apt,199
+735,BIG ROOM / DOWNTOWN  LOFT /,638721,Fred,Manhattan,Financial District,40.707409999999996,-74.00102,Private room,65
+736,Large Sunny Bedroom in QNS NYC,1402454,Jocelin,Queens,Rego Park,40.73349,-73.86009,Private room,55
+737,Home Away From Home-Room in Bronx,1402951,Clara,Bronx,Wakefield,40.89557,-73.8447,Private room,50
+738,Private clean pleasant spacious room.,164675,Janice,Brooklyn,Kensington,40.64277,-73.97296,Private room,60
+739,"Charming Hotel Alternative
+Mount Sinai",661399,Vivianne,Manhattan,East Harlem,40.791109999999996,-73.94466,Private room,99
+740,SUNNY 2-bdrm CHILD-friendly Uptwn by Centrl Park!,1406773,Eyal And Amy,Manhattan,Harlem,40.79951,-73.95257,Entire home/apt,130
+741,Resort-like living in Williamsburg,1380703,Vishal,Brooklyn,Williamsburg,40.71647,-73.93974,Entire home/apt,290
+742,Hudson Yards with views of The Highline Park,1408733,Sergio,Manhattan,Chelsea,40.75114,-74.00195,Entire home/apt,350
+743,Brooklyn: A Huge Bedroom + Good Vibes,1410714,Antoinette,Brooklyn,Crown Heights,40.66431,-73.93216,Private room,50
+744,One stop from Midtown Manhattan!,1413098,M,Queens,Long Island City,40.74579,-73.95012,Private room,96
+745,"Private Room Very Near L train, Bushwick",1093220,Chavisa,Brooklyn,Bushwick,40.70278,-73.92673,Private room,45
+746,Cozy New York  City private room,1366310,Janina,Queens,Woodside,40.74409,-73.91122,Private room,85
+747,Bed-stuy Royal Room,1398639,Juliet,Brooklyn,Bedford-Stuyvesant,40.68812,-73.93254,Private room,34
+748,SUPER CUTE EAST VILLAGE APARTMENT,1415590,Cameron,Manhattan,East Village,40.724540000000005,-73.99150999999999,Entire home/apt,250
+749,GREAP STUDIO / 4PPL IN MIDTOWN,1315849,Javier Pedraza,Brooklyn,Williamsburg,40.71073,-73.96207,Private room,190
+750,BEDFORD AV.  ROOM IN WILLIAMSBURG..,1315849,Javier Pedraza,Brooklyn,Williamsburg,40.71028,-73.96128,Private room,75
+751,Sleep & Wake near Botanical Gardens,1217923,Kevin,Brooklyn,Prospect-Lefferts Gardens,40.65772,-73.96131,Entire home/apt,93
+752,Tranquil in the heart of Brooklyn 2,1417166,Lex,Brooklyn,Bedford-Stuyvesant,40.68884,-73.95059,Private room,60
+753,Tranquil in the heart of Brooklyn 1,1417166,Lex,Brooklyn,Bedford-Stuyvesant,40.6865,-73.95371999999999,Private room,65
+754,"Easy, comfortable studio in Midtown",1387370,James,Manhattan,Midtown,40.75282,-73.97315,Entire home/apt,125
+755,Huge luxury 1BR apt near Central Park South(4 ppl),1362808,Max,Manhattan,Upper East Side,40.763729999999995,-73.96897,Entire home/apt,300
+756,Beautiful brownstone apartment,1423798,Aj,Manhattan,Greenwich Village,40.73388,-73.99452,Entire home/apt,150
+757,1 Bd. MANHATTAN NY Entire Apt. 1 yr-6 months min.,1423613,Arthur,Manhattan,Washington Heights,40.85774,-73.92900999999999,Entire home/apt,56
+758,Luxury Designer Downtown Apartment,1195295,M,Manhattan,East Village,40.722570000000005,-73.98465,Entire home/apt,299
+759,Spacious room on charming block in Greenpoint!,511993,Diana,Brooklyn,Greenpoint,40.72723,-73.95728000000001,Private room,60
+760,"SUNNY, SPACIOUS APT. in  FT. GREENE",1402817,Valerie,Brooklyn,Fort Greene,40.69135,-73.97321,Entire home/apt,88
+761,Guest Room in Authentic Williamsburg Factory Loft,1427381,Elizabeth,Brooklyn,Williamsburg,40.70513,-73.95505,Private room,60
+762,6 Bedroom Landmark West Village Townhouse,605463,West Village,Manhattan,West Village,40.73301,-74.00268,Entire home/apt,1300
+763,Beautiful bed and bath - Manhattan,1429642,Delia,Manhattan,East Harlem,40.79793,-73.93611999999999,Private room,200
+764,Beautiful Room Near Central Park!,1433395,Stacia,Manhattan,Harlem,40.80285,-73.95166,Private room,99
+765,Fantastic 1-bedroom basement apt.,1434654,Andrew,Brooklyn,Bushwick,40.70642,-73.91665,Entire home/apt,110
+766,"Private Clinton Hill, Brooklyn Apt",1434931,Aaron,Brooklyn,Clinton Hill,40.68156,-73.96537,Entire home/apt,135
+767,Charming furnished Studio-Loft,1436404,Catherine,Manhattan,Upper East Side,40.77368,-73.95198,Entire home/apt,110
+768,Lovely 2 bedroom apartment with backyard access,1417757,Kwab,Brooklyn,Bedford-Stuyvesant,40.68631,-73.93701999999999,Entire home/apt,165
+769,Nights in White Satin in the Slope,1440691,Dena,Brooklyn,Sunset Park,40.65992,-73.99042,Entire home/apt,127
+770,"The Carlton, Brooklyn brownstone Duplex w/ garden",130901,Chauncey,Brooklyn,Prospect Heights,40.678470000000004,-73.97038,Entire home/apt,402
+771,Comfortable Manhattanville.,305972,Allan,Manhattan,Harlem,40.81371,-73.95585,Private room,85
+772,Beautiful lrg 1800's syle apt share,1447684,Rosa,Brooklyn,Greenpoint,40.72868,-73.95835,Private room,75
+773,Location wins for East Village Apt,1448432,Jim,Manhattan,East Village,40.73168,-73.98662,Entire home/apt,139
+774,Sunny Entire Apt with Romantic Bedroom,950657,Michelle,Brooklyn,Prospect-Lefferts Gardens,40.656890000000004,-73.9533,Entire home/apt,70
+775,Furnished room for rent - Manhattan,1451723,Bia,Manhattan,East Harlem,40.7928,-73.93966999999999,Private room,50
+776,Large Room in a Huge NY apartment.,1452026,Heidi,Queens,Astoria,40.77117,-73.91905,Private room,30
+777,West Village NYC Sun-filled Studio!,1132207,Cathryne,Manhattan,West Village,40.73729,-74.00806999999999,Entire home/apt,250
+778,"Large, furnished room in a 2 bedroom!",368528,Ally,Brooklyn,Crown Heights,40.66984,-73.95141,Private room,64
+779,Huge Apartment!  Amazing View!,1455825,Erica,Manhattan,Harlem,40.82977,-73.94071,Entire home/apt,300
+780,#1 Yellow Block BnB/see at Net Flix Show Stay Here,1420300,Gordy,Brooklyn,Bedford-Stuyvesant,40.68492,-73.95489,Entire home/apt,800
+781,Cozy Brownstone Inn I(studio),240427,Naimah,Brooklyn,Bedford-Stuyvesant,40.68255,-73.91957,Entire home/apt,100
+782,Crown Height's Brooklyn Cozy Apt,1151818,Gabrielle,Brooklyn,Crown Heights,40.67392,-73.94662,Entire home/apt,250
+783,Amazing West Village 2br,70614,Vimal,Manhattan,West Village,40.73879,-74.00425,Entire home/apt,200
+784,Authentic NY Charming Artist Loft,1468658,Barbara,Brooklyn,Greenpoint,40.73321,-73.95586999999999,Entire home/apt,140
+785,Beautiful Private Bedroom - Downstairs,1469036,Tw,Manhattan,Harlem,40.806709999999995,-73.95082,Private room,130
+786,Kensington/Ditmas Park pied-a-terre,1471384,Dan,Brooklyn,Kensington,40.6433,-73.97386,Entire home/apt,90
+787,QT STUDIO FOR ROMANTIC COUPLES,36897,Lydia,Manhattan,Chinatown,40.71601,-73.99123,Entire home/apt,90
+788,"Own Room & Bath, Sunny Town House, 18"" to Wall St",1464358,Dian,Brooklyn,Bedford-Stuyvesant,40.681059999999995,-73.9292,Private room,97
+789,Cozy & Charming Boerum Hill Flat,322934,Kate,Brooklyn,Gowanus,40.681309999999996,-73.98879000000001,Entire home/apt,91
+790,Park Slope Brooklyn!  Sunny Bedroom.,1474071,Diana,Brooklyn,Park Slope,40.67264,-73.98136,Private room,125
+791,One bedroom sharing Bathroom,1474637,Eliza,Brooklyn,Cypress Hills,40.67889,-73.86404,Private room,75
+792,Spacious East Village Apartment,511175,Luis,Manhattan,East Village,40.7241,-73.97899,Entire home/apt,180
+793,Huge Williamsburg Loft..Perfect for Big Groups!,1427381,Elizabeth,Brooklyn,Williamsburg,40.70766,-73.95191,Entire home/apt,300
+794,Stylish Garden House - Trendy area,524730,Oz,Brooklyn,Williamsburg,40.714220000000005,-73.9484,Entire home/apt,100
+795,Hells Kitchen Ground Fl 1-bedroom,1476954,Jose,Manhattan,Hell's Kitchen,40.76001,-73.99133,Entire home/apt,175
+796,Pre War Park Slope on Prospect Park,1366270,Louisa,Brooklyn,South Slope,40.66441,-73.97974,Private room,65
+797,Charming Apt in the Best Location!,1482460,Dara,Manhattan,West Village,40.73362,-74.00923,Entire home/apt,240
+798,Huge room with private balcony,1475866,Jesper,Manhattan,East Village,40.731190000000005,-73.98819,Private room,300
+799,Amazing 1 bedroom apt with NYC View,1486034,Eric,Manhattan,Chelsea,40.74494,-73.9998,Entire home/apt,385
+800,Great spacious room by the L train!,1487126,Anamaria,Brooklyn,Bushwick,40.69657,-73.9129,Private room,47
+801,Charming Brooklyn Studio,1491538,Erika,Brooklyn,Crown Heights,40.67106,-73.95463000000001,Entire home/apt,110
+802,Private Room in Brownstone,1492339,Karin,Manhattan,Harlem,40.80748,-73.95589,Private room,75
+803,Bed Stuy Pride! Welcome to Brooklyn,1029021,Jameelah,Brooklyn,Bedford-Stuyvesant,40.68991,-73.93179,Entire home/apt,100
+804,Lovely Hell's Kitchen Studio...,1495090,Carey,Manhattan,Hell's Kitchen,40.76147,-73.99152,Entire home/apt,165
+805,HOT SPOT FOR 20 AND 30 SOMETHING'S,1495196,Yvette,Brooklyn,Bedford-Stuyvesant,40.681740000000005,-73.91920999999999,Entire home/apt,300
+806,"Cozy, Clean Cobble Hill Brownstone",1495141,Keow,Brooklyn,Cobble Hill,40.68538,-74.00056,Entire home/apt,140
+807,Bright Loft Apt w Skylight in Wburg,1495502,Olly,Brooklyn,Williamsburg,40.70839,-73.94289,Entire home/apt,120
+808,"Cozy, beautiful doormen studio-",1498424,Hibo,Brooklyn,Fort Greene,40.69018,-73.98106999999999,Entire home/apt,175
+809,Carroll Gardens Gem-2BD with Garden,1496847,Paul & Ewa,Brooklyn,Carroll Gardens,40.68128,-73.99521999999999,Entire home/apt,275
+810,Sunny 1BR Center of East Village!,347036,Jasmine,Manhattan,East Village,40.72948,-73.98694,Entire home/apt,179
+811,"2BR in Cobble Hill, Brooklyn, NY",632334,Michael,Brooklyn,Carroll Gardens,40.68353,-73.9914,Entire home/apt,189
+812,Perfect East Village Apartment,1502469,Max,Manhattan,East Village,40.72506,-73.98865,Entire home/apt,219
+813,Decorators 5-Star Flat West Village,1503831,Elle,Manhattan,West Village,40.72891,-74.00293,Entire home/apt,450
+814,Beautiful SoHo Luxury Apartment,815741,Geoff,Manhattan,SoHo,40.7253,-73.99916,Entire home/apt,249
+815,2 Rooms in Cottage NYC,1454655,Ronaldo,Queens,Long Island City,40.75295,-73.93228,Private room,65
+816,Zen Minimalist w/Garden- Bedford L Stop,1505217,Pia,Brooklyn,Greenpoint,40.71947,-73.95251999999999,Entire home/apt,250
+817,Between Two Bridges 2BD -Whole Apt!,207124,Mikki & Bazi,Manhattan,Chinatown,40.71283,-73.99703000000001,Entire home/apt,139
+818,BIG LUXURY LINCOLN CENTER AREA STUDIO + !!,1470688,Philip,Manhattan,Upper West Side,40.773379999999996,-73.98886999999999,Entire home/apt,209
+819,Brooklyn Beauty - Large 2 bedroom Apartment,1321504,Rohan,Brooklyn,Crown Heights,40.67385,-73.94405,Entire home/apt,120
+820,"Entire Apartment in Astoria, 15mins from Manhattan",1509416,Natalia,Queens,Astoria,40.76856,-73.91828000000001,Entire home/apt,70
+821,Gorgeous pvt room in West Village,1490696,Alejandra,Manhattan,West Village,40.73908,-74.00378,Private room,90
+822,1 bedroom apt in Midtown West,169927,Hubert,Manhattan,Hell's Kitchen,40.7625,-73.9869,Entire home/apt,199
+823,Sunny and spacious bedroom,1513294,Urszula,Brooklyn,Bushwick,40.69755,-73.91187,Private room,50
+824,Beautiful Spacious One Bedroom,1021834,Svetlana,Brooklyn,Crown Heights,40.67335,-73.96,Entire home/apt,100
+825,Room next to Columbia Uni.,910719,Sena,Manhattan,Harlem,40.804970000000004,-73.95146,Entire home/apt,110
+826,"Big Apt for Funky Art /Music Lovers, Outdoor Patio",1495502,Olly,Brooklyn,Williamsburg,40.707359999999994,-73.94331,Entire home/apt,157
+827,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73683,-73.9543,Entire home/apt,199
+828,NYC Summer Getaway | Full Home 2BR,1521432,Carmen,Queens,Astoria,40.76444,-73.92607,Entire home/apt,192
+829,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.7389,-73.95395,Entire home/apt,199
+830,Beautiful New Garden Apartment ,45682,Irina,Manhattan,Upper West Side,40.776109999999996,-73.97808,Entire home/apt,150
+831,Loft Suite @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73806,-73.95461999999999,Entire home/apt,199
+832,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73661,-73.95479,Entire home/apt,199
+833,Loft Suite @ The Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73857,-73.95435,Entire home/apt,199
+834,"Lovely apt in Williamsburg, BK",1521604,Summer,Brooklyn,Williamsburg,40.711,-73.96225,Entire home/apt,105
+835,Williamsburg HUGE SUNNY next2train!,430188,Pam,Brooklyn,Williamsburg,40.70686,-73.95365,Private room,135
+836,Loft Suite @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73857,-73.95299,Entire home/apt,199
+837,Modern apartment w/ gorgeous view,1523610,Marissa,Brooklyn,Williamsburg,40.71095,-73.95239000000001,Private room,125
+838,"Sunny, clean br available",1387286,Felicia,Brooklyn,Williamsburg,40.709179999999996,-73.94881,Private room,60
+839,Have Whole Apt! Prime Williamsburg!,1525761,Ric,Brooklyn,Williamsburg,40.71685,-73.96573000000001,Entire home/apt,85
+840,Panoramic View Central Park & NYC,568585,Alan,Manhattan,Upper West Side,40.7909,-73.96762,Entire home/apt,300
+841,E Williamsburg Apartment with Yard,496164,Todd,Brooklyn,Williamsburg,40.71143,-73.94159,Private room,75
+842,Nice Private Room Beauty in Queens,1528912,Weiwei,Queens,Elmhurst,40.736999999999995,-73.87444,Private room,55
+843,Sublet in Brooklyn/Lefferts Gardens,1530106,Glenn,Brooklyn,Crown Heights,40.66469,-73.96091,Private room,44
+844,"Cozy Corner, Bedford Ave  Brooklyn!",1530310,Jacques,Brooklyn,Bedford-Stuyvesant,40.68855,-73.95405,Private room,55
+845,"HISTORIC WILLIAMSBURG, BKLYN #1",839679,Brady,Brooklyn,Williamsburg,40.71653,-73.95554,Private room,30
+846,Inexpensive apartment in exchange for cat-care,997124,Alison,Brooklyn,Fort Greene,40.693090000000005,-73.97074,Private room,35
+847,"Private room in 2 br Apt, Wburg, BK",1535987,Sergio,Brooklyn,Williamsburg,40.706379999999996,-73.96627,Private room,70
+848,"Bright, Airy Williamsburg Apt",1536533,Irina,Brooklyn,Williamsburg,40.71629,-73.95786,Entire home/apt,130
+849,Large Double Room  Queenbed Wifi,1539749,Edward,Brooklyn,Bedford-Stuyvesant,40.68622,-73.94675,Private room,52
+850,"Low$pacious in Williamsburg, Bklyn",1412944,Jason,Brooklyn,Williamsburg,40.71635,-73.94609,Private room,75
+851,1 Bdrm in 2 Bdrm Apt in Upper East Lux Drmn Bldng,236421,Jessica,Manhattan,Upper East Side,40.77272,-73.95307,Private room,190
+852,Charming 1BD in SoHo,787261,L,Manhattan,SoHo,40.72509,-74.00304,Entire home/apt,250
+853,Feel like you never leave your home,1220404,Tom,Brooklyn,East New York,40.66795,-73.89232,Entire home/apt,100
+854,Sunny apartment  in Greenpoint,1557998,Eliza,Brooklyn,Greenpoint,40.72582,-73.95843,Entire home/apt,130
+855,Furnished Bedroom with private half bath,1550578,Ron,Manhattan,Harlem,40.80637,-73.95433,Private room,140
+856,Sunny private room featured in film,1555897,Alice,Brooklyn,Flatbush,40.64387,-73.96855,Private room,75
+857,Sunny 1BR East Harlem Apartment,8605,Dimitry,Manhattan,East Harlem,40.7968,-73.93611,Entire home/apt,150
+858,The best studio in town,1561505,Ibrahima,Manhattan,East Harlem,40.79596,-73.94463,Entire home/apt,90
+859,Fully Furnished 1B/1BTH UWS GEM  1 YR Sublease,1562045,Antonio,Manhattan,Upper West Side,40.780120000000004,-73.98439,Entire home/apt,295
+860,Penthouse Studio by Central Park,185753,Carolyn,Manhattan,Upper West Side,40.775079999999996,-73.9799,Entire home/apt,150
+861,Your Own 2 Br Apt Bedford and Grand,1570170,Kristina,Brooklyn,Williamsburg,40.71532,-73.96064,Entire home/apt,180
+862,Spacious + Sunny Studio in Ft. Greene Brooklyn!,1577493,Tina,Brooklyn,Fort Greene,40.68786,-73.97421,Private room,135
+863,2 rooms; private entrance & bath!,1577961,Oona,Brooklyn,Bushwick,40.70793,-73.91986999999999,Private room,65
+864,Giant Sunny Bedroom & Private Bath in my Apartment,1586945,Ben,Manhattan,Upper West Side,40.790440000000004,-73.97513000000001,Private room,99
+865,Prime location! Backyard & outdoor shower! Unique!,1590548,Magdalena,Brooklyn,Greenpoint,40.72668,-73.95761999999999,Private room,149
+866,"Private Room in Artist's Home, Stapleton, SI",1390555,Jonathan,Staten Island,Clifton,40.62318,-74.07848,Private room,59
+867,Large Sunny Bedroom with Bay Window,745069,Kimberly,Manhattan,Harlem,40.82286,-73.94596,Private room,75
+868,Harlem/Hamilton Heights Sunny Room,745069,Kimberly,Manhattan,Harlem,40.82451,-73.94457,Private room,75
+869,Clinton Hill Duplex near Pratt w/Balcony!,1597481,Mary,Brooklyn,Bedford-Stuyvesant,40.69348,-73.95926999999999,Private room,75
+870,"Sunny 1 BR, West 80s & Central Park",1385157,Brian,Manhattan,Upper West Side,40.78443,-73.97399,Entire home/apt,109
+871,"2 BD / 2BA WITH GARDEN, SLEEPS 6",72747,Karen,Brooklyn,Crown Heights,40.676790000000004,-73.95639,Entire home/apt,225
+872,COMFORTABLE ROOM,1601664,Junior,Manhattan,East Harlem,40.79107,-73.94381,Private room,86
+873,Charming Ridgewood Soulful  Walk-Up,142147,Richard,Queens,Ridgewood,40.70215,-73.91139,Private room,52
+874,"Comfortable, well-appointed room",1606222,P,Brooklyn,Prospect Heights,40.673390000000005,-73.96519,Private room,100
+875,2ND AVENUE OFF HOUSTON/LOFTLIKE STU,1613244,Ariel,Manhattan,Lower East Side,40.72209,-73.99274,Entire home/apt,99
+876,Share in NYC's trendy East Village,1617817,Chris,Manhattan,East Village,40.73171,-73.98716999999999,Private room,89
+877,Historic Brooklyn 2-Bedroom Apt,279078,Andrew & Markus,Brooklyn,Bedford-Stuyvesant,40.69213,-73.95100000000001,Entire home/apt,135
+878,APT W/ OUTDOOR SPACE!! LONG TERM RENTAL PREFERRED!,1631400,Sean And Kiana,Manhattan,West Village,40.73237,-74.00608000000001,Entire home/apt,199
+879,Come and go as  you please in BKLN!,1631733,Jane,Brooklyn,Kensington,40.64354,-73.97776999999999,Entire home/apt,89
+880,Room in Huge 1200sf W Harlem Suite,1632149,Michael,Manhattan,Harlem,40.80343,-73.9531,Private room,110
+881,"Huge, Sunny, Open Loft in Brooklyn",1633100,Ana,Brooklyn,Bushwick,40.70462,-73.9228,Entire home/apt,120
+882,Cozy Nook in Heart of Williamsburg,1639120,Jason,Brooklyn,Williamsburg,40.71394,-73.96266999999999,Private room,59
+883,Peaceful Room...,9647066,Maria Luiza,Brooklyn,Bay Ridge,40.6339,-74.02035,Private room,49
+884,Cute Room in Historic Loft!,1639884,Nora,Brooklyn,Greenpoint,40.73028,-73.95926999999999,Private room,79
+885,Harlem on the Range,1643782,Katy,Manhattan,Harlem,40.8076,-73.94433000000001,Entire home/apt,135
+886,Amazing Park Slope Duplex with Deck,516347,Lillian,Brooklyn,South Slope,40.66485,-73.98343,Entire home/apt,185
+887,Entire 2 Bedroom Apartment in Williamsburg,1366194,Fabiana,Brooklyn,Williamsburg,40.712790000000005,-73.95852,Entire home/apt,225
+888,Big Bright E Village 2BR (Baby Nursery),1644452,Erin,Manhattan,Gramercy,40.73294,-73.98281999999999,Entire home/apt,245
+889,Private Manhattan Studio on Harlem/Heights Border,1644999,Candice,Manhattan,Washington Heights,40.834559999999996,-73.9457,Entire home/apt,115
+890,"Luxury Williamsburg, Brooklyn LOFT",1649300,James,Brooklyn,Williamsburg,40.720909999999996,-73.95814,Entire home/apt,325
+891,Artist Loft-McCarren Park-Williamsburg-BrooklynNYC,1651591,Todd,Brooklyn,Williamsburg,40.71819,-73.95414,Private room,95
+892,Chelsea/Meat Packing  Artist Space!,1610852,Amanda,Manhattan,West Village,40.73887,-74.00341999999999,Private room,120
+893,Elegant Spacious Family Townhouse,6064192,Ted And Diane,Manhattan,Upper West Side,40.77892,-73.98238,Entire home/apt,499
+894,Large Master Bedroom - Williamsburg,1639120,Jason,Brooklyn,Williamsburg,40.713359999999994,-73.96191999999999,Private room,75
+895,Central Park Fifth Av MET Museum,1660724,S,Manhattan,Upper East Side,40.77688,-73.96177,Private room,109
+896,Real Williamsburg Artist Loft,1661965,Mathias,Brooklyn,Williamsburg,40.71368,-73.94478000000001,Entire home/apt,160
+897,Lovely Upper East Yorkville 1 BDRM,92788,Sara,Manhattan,Upper East Side,40.7761,-73.95265,Entire home/apt,219
+898,Cozy Upper East Side Studio,668564,Nitzan,Manhattan,Upper East Side,40.77471,-73.95574,Entire home/apt,159
+899,"Large Cozy Room #2, Landmark Home 1 Block to PRATT",51038,Erica,Brooklyn,Clinton Hill,40.68625,-73.96446,Private room,180

@@ -53,11 +53,14 @@ shinyUI(
                                       h5("Max file size to upload is 3MB"),
                                       checkboxGroupInput("inCheckboxGroup", "Input checkbox",
                                                          c("None")),
+                                      uiOutput("columns_selection"),
                                       radioButtons("sep","Seperator", choices = c(Comma = ',',Period=".",Tilde = "~", minus = "-")),
-                                      checkboxInput("header","Header"),
-                                    fluidRow(column(12,div("Head of Data:", tableOutput("head")))),
-                                    fluidRow(column(12,div("Tail of Data:", tableOutput("tail")))),
-                                    fluidRow(column(12,div("Summary of Data:", verbatimTextOutput("summary"))))
+                                      checkboxInput("header","Header",value=T),
+                                    #fluidRow(column(12,div("Head of Data:", tableOutput("head")))),
+                                    #fluidRow(column(12,div("Tail of Data:", tableOutput("tail")))),
+                                    #fluidRow(column(12,div("Summary of Data:", verbatimTextOutput("summary")))),
+                                    selectInput("select_0","Select file",c("None")),
+                                    uiOutput("coldata_0")
                                   )))
       )
 
